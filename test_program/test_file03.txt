@@ -1,5 +1,6 @@
 Program test3;
 Data Integer aaaa1, bbbb2, clea1, cleb1, xval1;
+Start
 	Input ( aaaa1 );
 	Input ( bbbb2 );
 
