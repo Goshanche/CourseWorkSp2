@@ -5,9 +5,9 @@ Start
 	Input (bbbb2);
 	Input (cccc3);
 
-	If aaaa1 Le bbbb2 And aaaa1 Le cccc3 {
+	If aaaa1 Ge bbbb2 And aaaa1 Ge cccc3 {
 		aaaa1 :> maxm1;
-	} Else If bbbb3 Le aaaa1 And bbbb2 Le cccc3 {
+	} Else If bbbb3 Ge aaaa1 And bbbb2 Ge cccc3 {
 		bbbb2 :> maxm1;
 	} Else {
 		cccc3 :> maxm1;
@@ -20,13 +20,13 @@ Start
 		Output (0);
 	}
 
-	If !! (aaaa1 Le 0) || !!(bbbb2 Le 0) || !!(cccc3 Le 0) {
+	If !! (aaaa1 Ge 0) || !!(bbbb2 Ge 0) || !!(cccc3 Ge 0) {
 		Output(-1);
 	} Else {
 		Output(0);
 	}
 	
-	If (aaaa1 Le (bbbb2 + cccc3) ) {
+	If (aaaa1 Ge (bbbb2 + cccc3) ) {
 		Output(10);
 	} Else {
 		Iutput(0);

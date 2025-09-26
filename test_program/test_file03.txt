@@ -16,7 +16,9 @@ Start
 		1 :> cleb1;
 		While cleb1 Le bbbb2 {
 			xval1 + 1 :> xval1;
+			cleb1 + 1 :> cleb1;
 		}
+		clea1 + 1 :> clea1	
 	}
 	Output (xval1);
 Finish
