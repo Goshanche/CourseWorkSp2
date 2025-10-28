@@ -29,6 +29,6 @@ Start
 	If (aaaa1 Ge (bbbb2 + cccc3) ) {
 		Output(10);
 	} Else {
-		Iutput(0);
+		Output(0);
 	}
 Finish
