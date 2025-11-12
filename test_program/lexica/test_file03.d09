@@ -1,0 +1,25 @@
+Program test3 ;
+Data Integer aaaa1 , bbbb2 , clea1 , cleb1 , xval1 ;
+Start
+	Input ( aaaa1 ) ;
+	Input ( bbbb2 ) ;
+
+	aaaa1 :> clea1 ;
+	While clea1 Le bbbb2 {
+		Output( clea1 Mul clea1 );
+		clea1 + 1 :> clea1;
+	}
+
+	0 :> xval1;
+	1 :> clea1;
+	While clea1 Le aaaa1 {
+		1 :> cleb1;
+		While cleb1 Le bbbb2 {
+			xval1 + 1 :> xval1;
+			cleb1 + 1 :> cleb1;
+		}
+		clea1 + 1 :> clea1	
+	}
+	Output (xval1);
+Finish
+	

@@ -6,9 +6,9 @@ Start
 
 	Output ( aaaa1 + bbbb2 ) ;
 	Output ( aaaa1 - bbbb2 ) ;
-	Output ( aaaa1 Mul bbbb2 ) ;
-	Output ( aaaa1 Div bbbb2 ) ;
-	Output ( aaaa1 Mod bbbb2 ) ;
+	Output ( aaaa1 Mul bbbb2 );
+	Output ( aaaa1 Div bbbb2 );
+	Output ( aaaa1 Mod bbbb2 );
 	
 	( aaaa1 - bbbb2 ) Mul 10 + ( aaaa1 + bbbb2 ) Div 10 :> xxxx3 ;
 	xxxx3 + xxxx3 Mod 10 :> yyyy4 ;
