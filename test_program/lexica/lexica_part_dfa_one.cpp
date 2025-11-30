@@ -12,7 +12,7 @@
 #define USE_DFA_TO_ACCEPT_UNSIGNEDVALUE
 
 #define TOKENS_RE         "!!|\\|\\||;|:>|=:|\\+|-|Mul|,|==|!=|:|\\[|\\]|\\(|\\)|\\{|\\}|Le|Ge|[_0-9A-Za-z]+|[^ \t\r\f\v\n]"
-#define KEYWORDS_RE       ";|:>|=:|\\+|-|Mul|,|==|!=|:|\\[|\\]|\\(|\\)|\\{|\\}|Program|Data|Start|Finish|Input|Output|If|Else|While|Div|Mod|Le|Ge|\\!|\\!|And|\\|||Integer"
+#define KEYWORDS_RE       ";|:>|=:|\\+|-|Mul|,|==|!=|:|\\[|\\]|\\(|\\)|\\{|\\}|Program|Data|Start|Finish|Input|Output|If|Else|While|Div|Mod|Le|Ge|!!|And|\\|\\||Integer"
 #define IDENTIFIERS_RE    "[a-z][a-z][a-z][a-z][0-9]"
 #define UNSIGNEDVALUES_RE "0|[1-9][0-9]*"
 
