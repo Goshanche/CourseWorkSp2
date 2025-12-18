@@ -9,7 +9,7 @@ Start
 		aaaa1 :> maxm1;
 	} Else If bbbb3 Ge aaaa1 And bbbb2 Ge cccc3 {
 		bbbb2 :> maxm1;
-	} Else {
+	} Elsde {
 		cccc3 :> maxm1;
 	}
 	Output (maxm1);

@@ -1,0 +1,376 @@
+﻿  syntax.cpp
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(239,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(44,9): warning C4005: 'T_DATA_TYPE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(25,9):
+      see previous definition of 'T_DATA_TYPE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(56,9): warning C4005: 'T_NOT_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(42,9):
+      see previous definition of 'T_NOT_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(64,9): warning C4005: 'T_AND_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(46,9):
+      see previous definition of 'T_AND_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(72,9): warning C4005: 'T_OR_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(50,9):
+      see previous definition of 'T_OR_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(84,9): warning C4005: 'T_LESS_OR_EQUAL_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(71,9):
+      see previous definition of 'T_LESS_OR_EQUAL_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(88,9): warning C4005: 'T_GREATER_OR_EQUAL_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(75,9):
+      see previous definition of 'T_GREATER_OR_EQUAL_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(100,9): warning C4005: 'T_MUL_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(88,9):
+      see previous definition of 'T_MUL_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(104,9): warning C4005: 'T_DIV_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(92,9):
+      see previous definition of 'T_DIV_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(108,9): warning C4005: 'T_MOD_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(96,9):
+      see previous definition of 'T_MOD_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(112,9): warning C4005: 'T_LRASSIGN_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(201,9):
+      see previous definition of 'T_LRASSIGN_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(120,9): warning C4005: 'T_ELSE_BLOCK_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(126,9):
+      see previous definition of 'T_ELSE_BLOCK_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(121,9): warning C4005: 'T_ELSE_BLOCK_1': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(127,9):
+      see previous definition of 'T_ELSE_BLOCK_1'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(124,9): warning C4005: 'T_IF_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(114,9):
+      see previous definition of 'T_IF_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(128,9): warning C4005: 'T_ELSE_IF_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(118,9):
+      see previous definition of 'T_ELSE_IF_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(129,9): warning C4005: 'T_ELSE_IF_1': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(119,9):
+      see previous definition of 'T_ELSE_IF_1'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(132,9): warning C4005: 'T_WHILE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(148,9):
+      see previous definition of 'T_WHILE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(136,9): warning C4005: 'T_CONTINUE_WHILE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(152,9):
+      see previous definition of 'T_CONTINUE_WHILE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(140,9): warning C4005: 'T_EXIT_WHILE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(156,9):
+      see previous definition of 'T_EXIT_WHILE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(148,9): warning C4005: 'T_INPUT_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(170,9):
+      see previous definition of 'T_INPUT_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(152,9): warning C4005: 'T_OUTPUT_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(174,9):
+      see previous definition of 'T_OUTPUT_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(156,9): warning C4005: 'T_NAME_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(13,9):
+      see previous definition of 'T_NAME_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(164,9): warning C4005: 'T_DATA_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(21,9):
+      see previous definition of 'T_DATA_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(168,9): warning C4005: 'T_BEGIN_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(206,9):
+      see previous definition of 'T_BEGIN_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(172,9): warning C4005: 'T_END_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(210,9):
+      see previous definition of 'T_END_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(13,9): warning C4005: 'T_NAME_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(156,9):
+      see previous definition of 'T_NAME_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(21,9): warning C4005: 'T_DATA_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(164,9):
+      see previous definition of 'T_DATA_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(25,9): warning C4005: 'T_DATA_TYPE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(44,9):
+      see previous definition of 'T_DATA_TYPE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(42,9): warning C4005: 'T_NOT_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(56,9):
+      see previous definition of 'T_NOT_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(46,9): warning C4005: 'T_AND_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(64,9):
+      see previous definition of 'T_AND_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(50,9): warning C4005: 'T_OR_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(72,9):
+      see previous definition of 'T_OR_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(71,9): warning C4005: 'T_LESS_OR_EQUAL_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(84,9):
+      see previous definition of 'T_LESS_OR_EQUAL_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(75,9): warning C4005: 'T_GREATER_OR_EQUAL_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(88,9):
+      see previous definition of 'T_GREATER_OR_EQUAL_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(88,9): warning C4005: 'T_MUL_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(100,9):
+      see previous definition of 'T_MUL_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(92,9): warning C4005: 'T_DIV_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(104,9):
+      see previous definition of 'T_DIV_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(96,9): warning C4005: 'T_MOD_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(108,9):
+      see previous definition of 'T_MOD_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(114,9): warning C4005: 'T_IF_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(124,9):
+      see previous definition of 'T_IF_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(118,9): warning C4005: 'T_ELSE_IF_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(128,9):
+      see previous definition of 'T_ELSE_IF_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(119,9): warning C4005: 'T_ELSE_IF_1': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(129,9):
+      see previous definition of 'T_ELSE_IF_1'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(126,9): warning C4005: 'T_ELSE_BLOCK_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(120,9):
+      see previous definition of 'T_ELSE_BLOCK_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(127,9): warning C4005: 'T_ELSE_BLOCK_1': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(121,9):
+      see previous definition of 'T_ELSE_BLOCK_1'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(148,9): warning C4005: 'T_WHILE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(132,9):
+      see previous definition of 'T_WHILE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(152,9): warning C4005: 'T_CONTINUE_WHILE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(136,9):
+      see previous definition of 'T_CONTINUE_WHILE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(156,9): warning C4005: 'T_EXIT_WHILE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(140,9):
+      see previous definition of 'T_EXIT_WHILE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(170,9): warning C4005: 'T_INPUT_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(148,9):
+      see previous definition of 'T_INPUT_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(174,9): warning C4005: 'T_OUTPUT_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(152,9):
+      see previous definition of 'T_OUTPUT_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(201,9): warning C4005: 'T_LRASSIGN_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(112,9):
+      see previous definition of 'T_LRASSIGN_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(206,9): warning C4005: 'T_BEGIN_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(168,9):
+      see previous definition of 'T_BEGIN_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(210,9): warning C4005: 'T_END_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(172,9):
+      see previous definition of 'T_END_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(239,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(44,9): warning C4005: 'T_DATA_TYPE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(25,9):
+      see previous definition of 'T_DATA_TYPE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(56,9): warning C4005: 'T_NOT_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(42,9):
+      see previous definition of 'T_NOT_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(64,9): warning C4005: 'T_AND_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(46,9):
+      see previous definition of 'T_AND_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(72,9): warning C4005: 'T_OR_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(50,9):
+      see previous definition of 'T_OR_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(84,9): warning C4005: 'T_LESS_OR_EQUAL_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(71,9):
+      see previous definition of 'T_LESS_OR_EQUAL_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(88,9): warning C4005: 'T_GREATER_OR_EQUAL_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(75,9):
+      see previous definition of 'T_GREATER_OR_EQUAL_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(100,9): warning C4005: 'T_MUL_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(88,9):
+      see previous definition of 'T_MUL_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(104,9): warning C4005: 'T_DIV_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(92,9):
+      see previous definition of 'T_DIV_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(108,9): warning C4005: 'T_MOD_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(96,9):
+      see previous definition of 'T_MOD_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(112,9): warning C4005: 'T_LRASSIGN_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(201,9):
+      see previous definition of 'T_LRASSIGN_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(120,9): warning C4005: 'T_ELSE_BLOCK_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(126,9):
+      see previous definition of 'T_ELSE_BLOCK_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(121,9): warning C4005: 'T_ELSE_BLOCK_1': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(127,9):
+      see previous definition of 'T_ELSE_BLOCK_1'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(124,9): warning C4005: 'T_IF_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(114,9):
+      see previous definition of 'T_IF_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(128,9): warning C4005: 'T_ELSE_IF_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(118,9):
+      see previous definition of 'T_ELSE_IF_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(129,9): warning C4005: 'T_ELSE_IF_1': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(119,9):
+      see previous definition of 'T_ELSE_IF_1'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(132,9): warning C4005: 'T_WHILE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(148,9):
+      see previous definition of 'T_WHILE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(136,9): warning C4005: 'T_CONTINUE_WHILE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(152,9):
+      see previous definition of 'T_CONTINUE_WHILE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(140,9): warning C4005: 'T_EXIT_WHILE_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(156,9):
+      see previous definition of 'T_EXIT_WHILE_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(148,9): warning C4005: 'T_INPUT_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(170,9):
+      see previous definition of 'T_INPUT_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(152,9): warning C4005: 'T_OUTPUT_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(174,9):
+      see previous definition of 'T_OUTPUT_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(156,9): warning C4005: 'T_NAME_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(13,9):
+      see previous definition of 'T_NAME_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(164,9): warning C4005: 'T_DATA_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(21,9):
+      see previous definition of 'T_DATA_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(168,9): warning C4005: 'T_BEGIN_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(206,9):
+      see previous definition of 'T_BEGIN_0'
+  
+C:\Users\adm\Desktop\cw_compilar\variant_specification\LexicaByRegExAndSyntaxByLL2protototype.h(172,9): warning C4005: 'T_END_0': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\config.h(210,9):
+      see previous definition of 'T_END_0'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\lexica\lexica.h(48,9): warning C4005: 'UNEXPEXTED_LEXEME_TYPE': macro redefinition
+  (compiling source file 'src/implementation/syntax/syntax.cpp')
+      C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\include\lexica\lexica.h(44,9):
+      see previous definition of 'UNEXPEXTED_LEXEME_TYPE'
+  
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\implementation\syntax\syntax.cpp(94,50): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\implementation\syntax\syntax.cpp(121,50): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\adm\Desktop\cw_compilar\cw_sp2__2025_2026\src\implementation\syntax\syntax.cpp(318,32): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  cw_sp2__2025_2026.vcxproj -> C:\Users\adm\Desktop\cw_compilar\x64\Debug\cw_sp2__2025_2026.exe
